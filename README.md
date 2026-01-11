@@ -1,39 +1,10 @@
 # LeetCode JavaScript Solutions
 
-A collection of my solutions to LeetCode problems implemented using JavaScript.  
-This repository is intended for practice, learning, and improving problem-solving skills.
+My solutions for LeetCode problems using JavaScript.
 
----
+## Problems
 
-## About
-
-- Focus on algorithms and data structures
-- Clean and readable JavaScript solutions
-- Regular updates as more problems are solved
-- Useful for technical interview preparation
-
----
-
-## Problems Solved
-
-| # | Problem | Difficulty |
-|---|--------|------------|
-| 0001 | Two Sum | Easy |
-| 0002 | Add Two Numbers | Medium |
-| 0003 | Longest Substring Without Repeating Characters | Medium |
-| 0004 | Median of Two Sorted Arrays | Hard |
-
----
-
-## Tech Stack
-
-- Language: JavaScript (ES6+)
-- Platform: LeetCode
-
----
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/LeetCode-JavaScript-Solutions.git
+- [0001 Two Sum](JavaScript/0001_two_sum.js)
+- [0002 Add Two Numbers](JavaScript/0002_add_two_numbers.js)
+- [0003 Longest Substring Without Repeating Characters](JavaScript/0003_longest_substring.js)
+- [0004 Median of Two Sorted Arrays](JavaScript/0004_median_of_two_SortedArrays.js)
