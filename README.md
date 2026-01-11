@@ -1,6 +1,24 @@
-# LeetCode JavaScript Solutions
-
+LeetCode JavaScript Solutions
 My solutions for LeetCode problems using JavaScript.
+Problems Solved: 8
+Math Problems
+#TitleDifficulty0002Add Two NumbersMedium0007Reverse IntegerMedium0009Palindrome NumberEasy0012Integer to RomanMedium0013Roman to IntegerEasy
+Other Problems
+#TitleDifficulty0001Two SumEasy0003Longest Substring Without Repeating CharactersMedium0004Median of Two Sorted ArraysHard
+Structure
+leetcode-javascript/
+├── JavaScript/
+│   ├── Math/
+│   │   ├── 0002_add_two_numbers.js
+│   │   ├── 0007_reverse_integer.js
+│   │   ├── 0009_palindrome_number.js
+│   │   ├── 0012_integer_to_roman.js
+│   │   └── 0013_roman_to_integer.js
+│   ├── 0001_two_sum.js
+│   ├── 0003_longest_substring.js
+│   └── 0004_median_of_two_SortedArr...
+└── README.md
+
 
 ## Problems
 
@@ -12,3 +30,26 @@ My solutions for LeetCode problems using JavaScript.
 - [0013 Roman to Integer](JavaScript/Math/0013_roman_to_integer.js)
 - [0003 Longest Substring Without Repeating Characters](JavaScript/0003_longest_substring.js)
 - [0004 Median of Two Sorted Arrays](JavaScript/0004_median_of_two_SortedArrays.js)
+
+How to Use
+
+Clone the repository
+
+bashgit clone https://github.com/zakariafl27/leetcode-javascript.git
+
+Navigate to the JavaScript directory
+
+bashcd leetcode-javascript/JavaScript
+
+Run any solution
+
+bashnode 0001_two_sum.js
+node Math/0002_add_two_numbers.js
+Progress Tracking
+
+Easy: 3 problems
+Medium: 4 problems
+Hard: 1 problem
+
+About
+This repository contains my personal solutions to various LeetCode problems. Solutions are organized by category, with math-related problems grouped in a separate folder.
